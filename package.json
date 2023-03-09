@@ -9,7 +9,7 @@
     "lint": "eslint ./src --fix"
   },
   "keywords": [],
-  "author": "",
+  "author": "andibhayangkara",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.35.0",
