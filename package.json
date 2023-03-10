@@ -1,11 +1,10 @@
 {
   "name": "bookshelf-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "submission",
   "main": "index.js",
   "scripts": {
     "start": "node ./src/server.js",
-    "start-dev": "nodemon ./src/server.js",
     "lint": "eslint ./src --fix"
   },
   "keywords": [],
@@ -14,8 +13,7 @@
   "devDependencies": {
     "eslint": "^8.35.0",
     "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.27.5",
-    "nodemon": "^2.0.21"
+    "eslint-plugin-import": "^2.27.5"
   },
   "dependencies": {
     "@hapi/hapi": "^21.3.0",
